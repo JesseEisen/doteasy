@@ -25,7 +25,7 @@ mul -> 5
 
 Then use the command: `./aste < ast | dot -Tpng -o ast.png` to generate the picture:
 
-[!ast](./asset/ast.png)
+![ast](./asset/ast.png)
 
 
 More examples see the `example` folder.
