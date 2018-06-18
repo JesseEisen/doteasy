@@ -1,0 +1,9 @@
+#ast:LR
+
+mul:"mul(*)"
+add:"add(+)"
+
+add -> 3
+add -> 4
+mul -> add
+mul -> 5

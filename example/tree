@@ -1,0 +1,15 @@
+#ast:LR
+
+now -> is
+now -> the
+is -> for
+is -> men
+for -> all
+for -> good
+all -> aid
+all -> come
+the -> of
+the -> time
+of -> party
+time -> their
+time -> to
